@@ -41,3 +41,15 @@ function doWhileLoop(num) {
 
 var c = doWhileLoop(num)
 console.log(c)
+
+
+
+
+while(1>1){
+  console.log("loop ma gayu")
+}
+do {
+  console.log("do while loop ma gayu")
+} while(1>1);
+
+
